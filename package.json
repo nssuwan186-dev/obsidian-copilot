@@ -124,7 +124,7 @@
     "codemirror-companion-extension": "^0.0.11",
     "cohere-ai": "^7.13.0",
     "crypto-js": "^4.1.1",
-    "diff": "^7.0.0",
+    "diff": "^8.0.3",
     "esbuild-plugin-svg": "^0.1.0",
     "eventsource-parser": "^1.0.0",
     "flexsearch": "^0.8.205",
